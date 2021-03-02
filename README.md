@@ -35,18 +35,16 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<code><img height="30" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" alt="C"></code>
-<code><img height="30" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg" alt="Java"></code>
+<code><img height="30" src="https://www.clipartmax.com/png/middle/351-3515666_c-language-global-or-external-variables-with-examples-c-programming-logo.png" alt="C"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python"></code>
 <code><img height="30" src="https://dev.lutece.paris.fr/site-demo/images/local/skin/kotlin.png" alt="Kotlin"></code>
 <code><img height="30" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" alt="Javascript"></code>
 <code><img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React-native"></code>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
+<code><img height="30" src="https://www.dlf.pt/dfpng/middlepng/524-5245166_react-logo-react-native-svg-logo-hd-png.png" alt="React-native"></code>
+<code><img height="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VS Code"></code>
+<code><img height="30" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL"></code>
+<code><img height="30" src="https://media.vlpt.us/images/hdy20201004/post/a489bc9c-b439-4b36-840a-3a0f56e9520a/git_logo.png" alt="Git"></code>
 </p>
 <br />
 
