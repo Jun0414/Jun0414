@@ -35,16 +35,16 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="http://mikadosolutions.com/wp-content/uploads/2020/12/c-logo.jpg" alt="C" height="30" style="vertical-align:top; margin:4px">
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python"></code>
-<code><img height="30" src="https://dev.lutece.paris.fr/site-demo/images/local/skin/kotlin.png" alt="Kotlin"></code>
-<code><img height="30" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" alt="Javascript"></code>
-<code><img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"></code>
-<code><img height="30" src="https://www.dlf.pt/dfpng/middlepng/524-5245166_react-logo-react-native-svg-logo-hd-png.png" alt="React-native"></code>
-<code><img height="30" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VS Code"></code>
-<code><img height="30" src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL"></code>
-<code><img height="30" src="https://media.vlpt.us/images/hdy20201004/post/a489bc9c-b439-4b36-840a-3a0f56e9520a/git_logo.png" alt="Git"></code>
+<img src="http://mikadosolutions.com/wp-content/uploads/2020/12/c-logo.jpg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://dev.lutece.paris.fr/site-demo/images/local/skin/kotlin.png" alt="Kotlin" height="40" style="vertical-align:top; margin:4px">
+<img src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.dlf.pt/dfpng/middlepng/524-5245166_react-logo-react-native-svg-logo-hd-png.png" alt="React-native" height="40" style="vertical-align:top; margin:4px">
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://media.vlpt.us/images/hdy20201004/post/a489bc9c-b439-4b36-840a-3a0f56e9520a/git_logo.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
 
