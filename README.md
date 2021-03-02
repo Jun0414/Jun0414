@@ -16,7 +16,7 @@
 - 😄 Pronouns: ...
 -->
 
-
+<!--
 ## :email: Find me on:
 
 <!--
@@ -28,6 +28,7 @@
  <a href="mailto:gbwj123@naver.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
 </p>
 <br />
+-->
 
 
 ## 🧰 Languages and Tools:
