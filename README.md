@@ -35,7 +35,7 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://www.kindpng.com/picc/m/355-3559027_c-programming-language-logo-clipart-png-download-c.png" alt="C" height="30" style="vertical-align:top; margin:4px">
+<img src="http://mikadosolutions.com/wp-content/uploads/2020/12/c-logo.jpg" alt="C" height="30" style="vertical-align:top; margin:4px">
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="Java"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python"></code>
 <code><img height="30" src="https://dev.lutece.paris.fr/site-demo/images/local/skin/kotlin.png" alt="Kotlin"></code>
