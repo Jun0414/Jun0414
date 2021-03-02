@@ -35,8 +35,10 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
- <code><img height="30" src="https://e7.pngegg.com/pngimages/465/779/png-clipart-blue-and-white-c-logo-the-c-programming-language-computer-programming-computer-icons-programmer-blue-angle.png" alt="C"></code>
+<code><img height="30" src="https://www.pinclipart.com/picdir/middle/396-3965857_c-c-programming-language-logo-clipart.png" alt="C"></code>
+<code><img height="30" src="https://banner2.cleanpng.com/20180621/jow/kisspng-plain-old-java-object-programming-language-compute-5b2b6405b39ad9.4848800015295703097357.jpg" alt="Java"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="Python"></code>
+<code><img height="30" src="https://dev.lutece.paris.fr/site-demo/images/local/skin/kotlin.pngg" alt="Kotlin"></code>
 <code><img height="30" src="https://html5hive.org/wp-content/uploads/2014/06/js_800x800.jpg" alt="Javascript"></code>
 <code><img height="30" src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React-native"></code>
