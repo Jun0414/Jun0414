@@ -66,4 +66,5 @@
 
 <!--
 EMOJI CHEAT SHEET : https://www.webfx.com/tools/emoji-cheat-sheet/
+참고 : https://github.com/abhisheknaiidu/awesome-github-profile-readme#dynamic-realtime-
 -->
