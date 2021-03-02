@@ -4,6 +4,7 @@
 
 
 ## 🎓 I am a computer engineer student at University of Sejong.
+
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything! anytime!
 - 👯 I’m looking to collaborate on anyone on any project.
@@ -16,7 +17,20 @@
 -->
 
 
+## :email: Find me on:
+
+<!--
+[<img align="left" alt="Jun0414" width="40px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Jun0414 | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
+-->
+<p align="center">
+ <a href="https://bbong0414.tistory.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="mailto:gbwj123@naver.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+</p>
+
+
 ## :trophy: My Github Stats:
+
 <!--
 ![Jun0414's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jun0414&show_icons=true&theme=blueberry)
 ![Jun0414's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=blueberry)
