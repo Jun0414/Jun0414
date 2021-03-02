@@ -43,7 +43,7 @@
 <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="Typescript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.dlf.pt/dfpng/middlepng/524-5245166_react-logo-react-native-svg-logo-hd-png.png" alt="React-native" height="40" style="vertical-align:top; margin:4px">
 <img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="http://pngimg.com/uploads/mysql/mysql_PNG23.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://pbs.twimg.com/profile_images/1255113654049128448/J5Yt92WW_400x400.png" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://media.vlpt.us/images/hdy20201004/post/a489bc9c-b439-4b36-840a-3a0f56e9520a/git_logo.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
