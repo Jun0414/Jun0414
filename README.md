@@ -33,6 +33,7 @@
 -->
 
 
+<!--
 ## 🧰 Languages and Tools:
 <p align="center">
 <img src="http://mikadosolutions.com/wp-content/uploads/2020/12/c-logo.jpg" alt="C" height="40" style="vertical-align:top; margin:4px">
@@ -47,6 +48,7 @@
 <img src="https://media.vlpt.us/images/yeonjuu417/post/579d366b-82da-4c09-abfb-0270f0e3a75c/git.png" alt="Git" height="40" style="vertical-align:top; margin:4px">
 </p>
 <br />
+-->
 
 
 ## :trophy: My Github Stats:
