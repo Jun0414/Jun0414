@@ -3,13 +3,14 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJun0414&count_bg=%2347D3C9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)    ![Hits](https://img.shields.io/github/followers/Jun0414?label=Follow&style=social)
 
 
+<!--
 ## 🎓 I am a computer engineer student at University of Sejong.
 
 - 🌱 I’m currently learning Python.
 - 💬 Ask me about anything! anytime!
 - 👯 I’m looking to collaborate on anyone on any project.
 - ⚡ Fun fact: I love playing exercise like golf :golf:.
-<!--
+
 - 🔭 I’m currently working on ...
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
