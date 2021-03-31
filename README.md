@@ -59,12 +59,12 @@
 ![Jun0414's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=blueberry)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=Jun0414&show_icons=true&theme=algolia">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Jun0414&show_icons=true&theme=blueberry" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=algolia">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=blueberry" />
-</a>
+ <a href="https://github-readme-stats.vercel.app/api?username=Jun0414&show_icons=true&theme=algolia">
+   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Jun0414&show_icons=true&theme=blueberry" />
+ </a>
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=algolia">
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jun0414&theme=blueberry" />
+ </a>
 </div>
 
 <!--
